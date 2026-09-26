@@ -15,7 +15,7 @@ each cracked PDF contains a CTF-style flag.
 
 | Module | Tools used | Doc |
 |---|---|---|
-| Module 1 |  (via OnlineHashCrack), **John the Ripper** + **Johnny** (GUI) | [docs/module1-jtr.md](docs/module1-jtr.md) |
+| Module 1 | 'pdf2john' (via OnlineHashCrack), **John the Ripper** + **Johnny** (GUI) | [docs/module1-jtr.md](docs/module1-jtr.md) |
 | Module 2 | Networkwalks **Hash Calculator** + **Password Cracker** (browser-based, dictionary attack) | [docs/module2-networkwalks-tools.md](docs/module2-networkwalks-tools.md) |
 
 ## Results
